@@ -1,6 +1,6 @@
 # RecommenderSystem
 
-The table below lists the recommender algorithms that have explored. 
+The table below lists the recommender algorithms that I have explored
 
 | Algorithm | Environment | Type | Description |
 | --- | --- | --- | --- |
